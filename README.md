@@ -1,1 +1,1 @@
-# bash-util-scripts
+# bash-useful-scripts
